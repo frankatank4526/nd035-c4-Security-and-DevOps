@@ -6,7 +6,7 @@ import java.util.Random;
 
 public class Test1Example {
 
-	   public static void main(String args[]) {
+	   public static void main(String[] args) {
 	      // Count empty strings
 	      List<String> empNames = Arrays.asList("sareeta", "", "john","");
 	      List<Integer> empLevel = Arrays.asList(3,3,3,5,7,2,2,5,7,5);
