@@ -1,1 +1,6 @@
 .idea/
+/starter_code/target/
+/starter_code/.idea/
+/starter_code/logs/
+/unitTestStarter/target/
+/unitTestStarter/.idea/
